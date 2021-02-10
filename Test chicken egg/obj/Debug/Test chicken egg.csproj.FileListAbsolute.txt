@@ -1,0 +1,7 @@
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\bin\Debug\Test chicken egg.exe.config
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\bin\Debug\Test chicken egg.exe
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\bin\Debug\Test chicken egg.pdb
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\obj\Debug\Test chicken egg.csprojAssemblyReference.cache
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\obj\Debug\Test chicken egg.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\obj\Debug\Test chicken egg.exe
+C:\Users\milan\Desktop\Ucebnice C# -Moderni programovani\Test chicken egg\Test chicken egg\obj\Debug\Test chicken egg.pdb
